@@ -22,6 +22,7 @@ public class Solution {
     public static HashMap<String, Cat> addCatsToMap(String[] cats) {
         //напишите тут ваш код
 
+        return null;
     }
 
 
